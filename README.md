@@ -1,5 +1,7 @@
 # ActiveMQ 를 알아가며
 
+개발 환경 : Spring boot 3.1.3, IntelliJ, Java
+
 필자는 ActiveMQ를 알아가기 위해 ActiveMQ에 대해 공부하였다.
 MQ는 Message Queue의 약자로, 데이터의 주고 받는 방식이 Message를 이용한 방식이다.
 한 프로세스(또는 프로그램 인스턴스)가 Message를 MQ서버 MOM(Message Oriented Middleware)에 보내게 되면
