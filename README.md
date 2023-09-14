@@ -8,15 +8,19 @@ MQ는 Message Queue의 약자로, 데이터의 주고 받는 방식이 Message�
 이를 실행한 결과이다. (Postman 사용)
 
 ![image](https://github.com/HINU0622/ActiveMQProject/assets/80612949/e8698204-91e1-42e2-b358-98cf117e071e)
+
 사진에 보이진 않지만, Lee-jae-jin-queue라는 Queue로 Message를 보냄.
 
 ![image](https://github.com/HINU0622/ActiveMQProject/assets/80612949/510e7014-91b3-4af9-b540-cfb108620a4f)
+
 Lee-jae-jin-queue에 1개의 Message가 쌓인 것을 볼 수 있음.
 
 ![image](https://github.com/HINU0622/ActiveMQProject/assets/80612949/ec753104-c26c-47be-bf3e-b0ae97f3170f)
+
 그리고 다른 곳에서 이를 받음.
 
 ![image](https://github.com/HINU0622/ActiveMQProject/assets/80612949/fbef57c6-7742-45d0-b0c2-a87c5288d1b6)
+
 Queue에서 정삭적으로 Message가 빠져나간 것을 알 수 있음.
 
 # 이 글을 마치며
