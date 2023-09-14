@@ -15,11 +15,11 @@ MQ는 Message Queue의 약자로, 데이터의 주고 받는 방식이 Message�
 
 Lee-jae-jin-queue에 1개의 Message가 쌓인 것을 볼 수 있음.
 
-![image](https://github.com/HINU0622/ActiveMQProject/assets/80612949/ec753104-c26c-47be-bf3e-b0ae97f3170f)
+![image](https://github.com/HINU0622/ActiveMQProject/assets/80612949/fbef57c6-7742-45d0-b0c2-a87c5288d1b6)
 
 그리고 다른 곳에서 이를 받음.
 
-![image](https://github.com/HINU0622/ActiveMQProject/assets/80612949/fbef57c6-7742-45d0-b0c2-a87c5288d1b6)
+![image](https://github.com/HINU0622/ActiveMQProject/assets/80612949/bf48ec0e-e7fd-4918-a987-f3e3bcd43798)
 
 Queue에서 정삭적으로 Message가 빠져나간 것을 알 수 있음.
 
